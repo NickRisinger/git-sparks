@@ -1,2 +1,8 @@
+.output
+.data
+.nuxt
+.nitro
+.cache
 .turbo
 node_modules
+dist
